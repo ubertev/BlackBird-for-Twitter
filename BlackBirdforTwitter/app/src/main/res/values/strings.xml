@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BlackBird for Twitter</string>
+
+    <string name="sign_in">Sign in</string>
+    <string name="auth_access">You need to sign into Twitter to authorize access to this application</string>
+    <string name="welcome">Welcome to BlackBird for Twitter!</string>
+    <string name="status_update_lbl">Update Status</string>
+    <string name="btn_update">Tweet</string>
+    <string name="btn_logout">Logout</string>
+
+    <string name="net_error">Internet connection error!</string>
+    <string name="net_error_msg">Please connect to a working internet connection.</string>
+    <string name="auth_error">oAuth tokens. Please set your Twitter oauth tokens first.</string>
+</resources>
